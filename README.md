@@ -2,12 +2,25 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Summary](#Summary)
+* [Dependencies](#Dependencies)
+* [References](#References)
+* [Features](#Features)
 
-## Instructions
+## Summary
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This project is submitted to Udacity as part of the Front End Developer Nanodegree program.
 
-To get started, open `js/app.js` and start building out the app's functionality
+Some HTML and CSS styling to display a static version of the Landing Page project are provided. Base on the starter page, some styling has been added. The majority of work that was done was on the [js/app.js](js/app.js) file.
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Dependencies
+
+None. This project runs on native Javascript. It does not require [JQuery](https://jquery.com/).
+
+## References
+* [How to Check if element is visible after scrolling?](https://stackoverflow.com/questions/487073/how-to-check-if-element-is-visible-after-scrolling)
+
+## Features
+- [x] Add an active state to your navigation items when a section is in the viewport.
+- [ ] Add a scroll to top button on the page that’s only visible when the user scrolls below the fold of the page.
+- [ ] Make sections collapsible.
